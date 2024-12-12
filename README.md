@@ -1,16 +1,19 @@
-## Hi there 👋
+🟨🟦⬜ __
+🟦⬜🟥 __
+⬜🟥🟥 __
 
-<!--
-**ReclaimerGold/ReclaimerGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HULLO! I'm Ryan.
+I'm the Founder of, and Lead Web Designer for [@FallsTechGroup](https://github.com/FallsTechGroup).
 
-Here are some ideas to get you started:
+I design solutions and toolkits to help individuals and businesses gain easier access to automations and quality-of-life improvements that can help them create, make, and build better, faster, and smarter. Much of my public repositories serve as an opportunity for me to give back some of the work that I've done to help solve problems at a lower cost.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The Deetz.
+
+ - I've been building websites in some capacity or another since 2001
+ - I started hosting servers for other humans in 2010
+ - My FIRST ever programming language was Java
+ - My PREFERRED language is Python
+ - My DAY JOB is running @FallsTechGroup
+
+## Want to hire me?
+Visit [Falls Technology Group](https://www.fallstech.group/contact)
