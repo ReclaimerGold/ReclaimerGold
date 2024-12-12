@@ -1,7 +1,3 @@
-🟨🟦⬜ __
-🟦⬜🟥 __
-⬜🟥🟥 __
-
 # HULLO! I'm Ryan.
 I'm the Founder of, and Lead Web Designer for [@FallsTechGroup](https://github.com/FallsTechGroup).
 
